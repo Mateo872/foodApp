@@ -31,19 +31,87 @@ header {
         }
       }
     }
-    .container_geo {
-      margin-top: 0.2rem;
-      width: 100%;
-      height: 2rem;
-      background-color: #f6f6f6;
-      border-radius: 1.8rem;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      gap: 0.4rem;
-      font-weight: 300;
-      i {
-        color: #717171;
+  }
+}
+
+.container_input {
+  margin-top: 0.2rem;
+  width: 100%;
+  height: 2rem;
+  background-color: #f6f6f6;
+  border-radius: 1.8rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.4rem;
+  font-weight: 300;
+}
+
+i {
+  color: #717171;
+}
+
+main {
+  width: 90%;
+  margin: 1rem auto 0;
+  .container_welcome {
+    position: relative;
+    .welcome {
+      h1,
+      h2 {
+        color: #585858;
+      }
+
+      h1 {
+        font-size: 1.25rem;
+        font-weight: 400;
+      }
+      h2 {
+        margin-top: -0.8rem;
+        font-size: 2rem;
+        font-weight: 700;
+      }
+      .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: end;
+        .container_input {
+          width: 85%;
+          margin-top: 0.6rem;
+          position: relative;
+          input {
+            border: none;
+            outline: none;
+            width: 100%;
+            padding: 0.6rem;
+            padding-left: 2.2rem;
+            background-color: transparent;
+            &::placeholder {
+              font-size: 0.8rem;
+              font-weight: bold;
+            }
+          }
+          i {
+            position: absolute;
+            top: 50%;
+            left: 1rem;
+            transform: translateY(-50%);
+            font-size: 0.8rem;
+          }
+        }
+        .container_filter {
+          width: 2rem;
+          height: 2rem;
+          border-radius: 100%;
+          position: absolute;
+          right: 0;
+          background-color: #f6f6f6;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          font-weight: bold;
+          font-size: 0.8rem;
+        }
       }
     }
   }

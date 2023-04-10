@@ -28,7 +28,8 @@ header nav ul li h4 {
   color: #ff9000;
   font-size: 1rem;
 }
-header nav .container_geo {
+
+.container_input {
   margin-top: 0.2rem;
   width: 100%;
   height: 2rem;
@@ -40,6 +41,74 @@ header nav .container_geo {
   gap: 0.4rem;
   font-weight: 300;
 }
-header nav .container_geo i {
+
+i {
   color: #717171;
+}
+
+main {
+  width: 90%;
+  margin: 1rem auto 0;
+}
+main .container_welcome {
+  position: relative;
+}
+main .container_welcome .welcome h1,
+main .container_welcome .welcome h2 {
+  color: #585858;
+}
+main .container_welcome .welcome h1 {
+  font-size: 1.25rem;
+  font-weight: 400;
+}
+main .container_welcome .welcome h2 {
+  margin-top: -0.8rem;
+  font-size: 2rem;
+  font-weight: 700;
+}
+main .container_welcome .welcome .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+}
+main .container_welcome .welcome .container .container_input {
+  width: 85%;
+  margin-top: 0.6rem;
+  position: relative;
+}
+main .container_welcome .welcome .container .container_input input {
+  border: none;
+  outline: none;
+  width: 100%;
+  padding: 0.6rem;
+  padding-left: 2.2rem;
+  background-color: transparent;
+}
+main .container_welcome .welcome .container .container_input input::-moz-placeholder {
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+main .container_welcome .welcome .container .container_input input::placeholder {
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+main .container_welcome .welcome .container .container_input i {
+  position: absolute;
+  top: 50%;
+  left: 1rem;
+  transform: translateY(-50%);
+  font-size: 0.8rem;
+}
+main .container_welcome .welcome .container .container_filter {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 100%;
+  position: absolute;
+  right: 0;
+  background-color: #f6f6f6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 0.8rem;
 }/*# sourceMappingURL=styles.css.map */
