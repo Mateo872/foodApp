@@ -349,6 +349,9 @@ main .container_restaurant .restaurant .product_detail_slider .product_restauran
   font-weight: bold;
   gap: 0.4rem;
 }
+main .container_restaurant .restaurant .product_detail_slider .product_restaurant-name h3 {
+  font-size: 0.8rem;
+}
 main .container_restaurant .restaurant .product_detail_slider .product_restaurant .discount {
   display: flex;
   gap: 0.4rem;

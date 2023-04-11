@@ -368,6 +368,11 @@ main {
             font-weight: bold;
             gap: 0.4rem;
           }
+          &-name {
+            h3 {
+              font-size: 0.8rem;
+            }
+          }
           .discount {
             display: flex;
             gap: 0.4rem;
