@@ -170,7 +170,7 @@ main .container_categories .categories .categories_products::-webkit-scrollbar {
   width: 0;
 }
 main .container_allProducts .allProducts .allProducts_slider {
-  height: 12.8rem;
+  height: 12.5rem;
   overflow-x: hidden;
   overflow-y: auto;
   scroll-snap-type: y proximity;
@@ -197,6 +197,8 @@ main .container_allProducts .allProducts .allProducts_product {
   position: relative;
   text-decoration: none;
   color: #000;
+  margin-top: 1rem;
+  background-color: red;
 }
 main .container_allProducts .allProducts .allProducts_product .allProduct_image {
   width: 8rem;
@@ -314,7 +316,7 @@ main .container_restaurant .restaurant .title {
   margin-bottom: 0.8rem;
 }
 main .container_restaurant .restaurant .product_detail_slider {
-  height: 13.9rem;
+  height: 14.5rem;
   overflow-y: auto;
   scroll-snap-type: y proximity;
   padding-bottom: 0.8rem;
@@ -335,14 +337,22 @@ main .container_restaurant .restaurant .product_detail_slider .product_restauran
   margin-bottom: 0.8rem;
 }
 main .container_restaurant .restaurant .product_detail_slider .product_restaurant-image {
-  width: 8rem;
+  width: 9rem;
 }
 main .container_restaurant .restaurant .product_detail_slider .product_restaurant-image img {
   width: 100%;
 }
 main .container_restaurant .restaurant .product_detail_slider .product_restaurant-price {
   display: flex;
+  font-weight: bold;
   gap: 0.4rem;
+}
+main .container_restaurant .restaurant .product_detail_slider .product_restaurant .discount {
+  display: flex;
+  gap: 0.4rem;
+  font-weight: 400;
+  color: #8d8d8d;
+  text-decoration: line-through;
 }
 main .container_restaurant .restaurant .product_detail_slider::-webkit-scrollbar {
   width: 0;

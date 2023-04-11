@@ -180,7 +180,7 @@ main {
   .container_allProducts {
     .allProducts {
       .allProducts_slider {
-        height: 12.8rem;
+        height: 12.5rem;
         overflow-x: hidden;
         overflow-y: auto;
         scroll-snap-type: y proximity;
@@ -209,6 +209,9 @@ main {
         position: relative;
         text-decoration: none;
         color: #000;
+        margin-top: 1rem;
+        background-color: red;
+
         .allProduct_image {
           width: 8rem;
           display: flex;
@@ -333,7 +336,7 @@ main {
         margin-bottom: 0.8rem;
       }
       .product_detail_slider {
-        height: 13.9rem;
+        height: 14.5rem;
         overflow-y: auto;
         scroll-snap-type: y proximity;
         padding-bottom: 0.8rem;
@@ -353,14 +356,22 @@ main {
           margin-bottom: 0.8rem;
 
           &-image {
-            width: 8rem;
+            width: 9rem;
             img {
               width: 100%;
             }
           }
           &-price {
             display: flex;
+            font-weight: bold;
             gap: 0.4rem;
+          }
+          .discount {
+            display: flex;
+            gap: 0.4rem;
+            font-weight: 400;
+            color: #8d8d8d;
+            text-decoration: line-through;
           }
         }
         &::-webkit-scrollbar {
