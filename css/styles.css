@@ -227,9 +227,11 @@ main .container_allProducts .allProducts .allProducts_product .allProduct_detail
   gap: 0.4rem;
 }
 main .container_allProducts .allProducts .allProducts_product .allProduct_detail--price .price {
+  font-size: 0.8rem;
   font-weight: 600;
 }
 main .container_allProducts .allProducts .allProducts_product .allProduct_detail--price .discount {
+  font-size: 0.8rem;
   font-weight: 400;
   color: #8d8d8d;
   text-decoration: line-through;

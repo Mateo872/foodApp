@@ -3,7 +3,7 @@
       {
         "id": 1,
         "image": "../images/pizzaNapolitana.png",
-        "name": "Pizza Napolitana",
+        "name": "Pizza napolitana",
         "category": "Pizzas",
         "price": 12.99,
         "discounted_price": 9.99
@@ -11,7 +11,7 @@
       {
         "id": 2,
         "image": "../images/pizzaPepperoni.png",
-        "name": "Pizza Pepperoni",
+        "name": "Pizza pepperoni",
         "category": "Pizzas",
         "price": 10.49,
         "discounted_price": 7.34
@@ -19,15 +19,15 @@
       {
         "id": 3,
         "image": "../images/pizzaBarbacoa.png",
-        "name": "Pizza Barbacoa",
+        "name": "Pizza barbacoa",
         "category": "Pizzas",
         "price": 15.99,    
         "discounted_price": 11.19
       },
       {
         "id": 4,
-        "image": "../images/pizzaMexicana.png",
-        "name": "Pizza Mexicana",
+        "image": "../images/pizzaAnchoa.png",
+        "name": "Pizza de anchoa",
         "category": "Pizzas",
         "price": 13.99,
         "discounted_price": 9.79
@@ -35,7 +35,7 @@
       {
         "id": 5,
         "image": "../images/pizzaVegetariana.png",
-        "name": "Pizza Vegetariana",
+        "name": "Pizza vegetariana",
         "category": "Pizzas",
         "price": 11.99,
         "discounted_price": 8.39
@@ -43,7 +43,7 @@
       {
         "id": 6,
         "image": "../images/pizzaQuesos.png",
-        "name": "Pizza Cuatro Quesos",
+        "name": "Pizza cuatro quesos",
         "category": "Pizzas",
         "price": 14.49,
         "discounted_price": 10.14
@@ -51,15 +51,15 @@
       {
         "id": 7,
         "image": "../images/pizzaHawaiana.png",
-        "name": "Pizza Hawaiana",
+        "name": "Pizza hawaiana",
         "category": "Pizzas",
         "price": 12.99,
         "discounted_price": 9.09
       },
       {
         "id": 8,
-        "image": "../images/pizzaNapolitanaDos.png",
-        "name": "Pizza Pepperoni",
+        "image": "../images/pizzaNapolitana2.png",
+        "name": "Pizza napolitana",
         "category": "Pizzas",
         "price": 16.99,
         "discounted_price": 11.89
@@ -67,15 +67,15 @@
       {
         "id": 9,
         "image": "../images/pizzaCalzone.png",
-        "name": "Pizza Calzone",
+        "name": "Pizza calzone",
         "category": "Pizzas",
         "price": 14.99,
         "discounted_price": null
       },
       {
         "id": 10,
-        "image": "../images/pizzaNapolitana.png",
-        "name": "Pizza Pepperoni",
+        "image": "../images/pizzaPepperoni2.png",
+        "name": "Pizza pepperoni",
         "category": "Pizzas",
         "price": 17.99,
         "discounted_price": 12.59
@@ -83,7 +83,7 @@
       {
         "id": 11,
         "image": "../images/hamburguesaClasica.png",
-        "name": "Hamburguesa Clásica",
+        "name": "Hamburguesa clásica",
         "category": "Hamburguesas",
         "price": 9.99,
         "discounted_price": 6.99
@@ -91,7 +91,7 @@
       {
         "id": 12,
         "image": "../images/hamburguesaDoble.png",
-        "name": "Hamburguesa Doble",
+        "name": "Hamburguesa doble",
         "category": "Hamburguesas",
         "price": 12.99,
         "discounted_price": 9.09
@@ -99,7 +99,7 @@
       {
         "id": 13,
         "image": "../images/hamburguesaVegetariana.png",
-        "name": "Hamburguesa Vegetariana",
+        "name": "Hamburguesa vegetariana",
         "category": "Hamburguesas",
         "price": 10.99,
         "discounted_price": 7.69
@@ -107,7 +107,7 @@
       {
         "id": 14,
         "image": "../images/hamburguesaQueso.png",
-        "name": "Hamburguesa con Queso",
+        "name": "Hamburguesa doble queso",
         "category": "Hamburguesas",
         "price": 11.99,
         "discounted_price": 8.39
@@ -163,7 +163,7 @@
       {
         "id": 21,
         "image": "../images/vodka.png",
-        "name": "Vodka Absolut",
+        "name": "Vodka",
         "category": "Bebidas",
         "price": 49.99,
         "discounted_price": 32.49
@@ -178,7 +178,7 @@
       },
       {
         "id": 23,
-        "image": "../images/rum.png",
+        "image": "../images/ron.png",
         "name": "Ron Zacapa",
         "category": "Bebidas",
         "price": 69.99,
@@ -187,7 +187,7 @@
       {
         "id": 24,
         "image": "../images/whiskey.png",
-        "name": "Whisky Johnnie Walker Blue Label",
+        "name": "Whisky Johnnie",
         "category": "Bebidas",
         "price": 299.99,
         "discounted_price": 194.99
@@ -201,44 +201,12 @@
         "discounted_price": 162.49
       },
       {
-        "id": 26,
-        "image": "../images/cognac.png",
-        "name": "Cognac Hennessy XO",
-        "category": "Bebidas",
-        "price": 349.99,
-        "discounted_price": 227.49
-      },
-      {
-        "id": 27,
-        "image": "../images/scotch.png",
-        "name": "Scotch Macallan 18 años",
-        "category": "Bebidas",
-        "price": 349.99,
-        "discounted_price": 227.49
-      },
-      {
-        "id": 28,
-        "image": "../images/champagne.png",
-        "name": "Champagne Dom Perignon",
-        "category": "Bebidas",
-        "price": 249.99,
-        "discounted_price": 162.49
-      },
-      {
         "id": 29,
         "image": "../images/beer.png",
         "name": "Cerveza artesanal",
         "category": "Bebidas",
         "price": 14.99,
         "discounted_price": 9.74
-      },
-      {
-        "id": 30,
-        "image": "../images/wine.png",
-        "name": "Vino tinto reserva",
-        "category": "Bebidas",
-        "price": 89.99,
-        "discounted_price": 58.49
       },
       {
         "id": 31,
