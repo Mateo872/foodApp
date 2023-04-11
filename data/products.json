@@ -1,0 +1,428 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "image": "../images/pizzaNapolitana.png",
+        "name": "Pizza Napolitana",
+        "category": "Pizzas",
+        "price": 12.99,
+        "discounted_price": 9.99
+      },
+      {
+        "id": 2,
+        "image": "../images/pizzaPepperoni.png",
+        "name": "Pizza Pepperoni",
+        "category": "Pizzas",
+        "price": 10.49,
+        "discounted_price": 7.34
+      },
+      {
+        "id": 3,
+        "image": "../images/pizzaBarbacoa.png",
+        "name": "Pizza Barbacoa",
+        "category": "Pizzas",
+        "price": 15.99,    
+        "discounted_price": 11.19
+      },
+      {
+        "id": 4,
+        "image": "../images/pizzaMexicana.png",
+        "name": "Pizza Mexicana",
+        "category": "Pizzas",
+        "price": 13.99,
+        "discounted_price": 9.79
+      },
+      {
+        "id": 5,
+        "image": "../images/pizzaVegetariana.png",
+        "name": "Pizza Vegetariana",
+        "category": "Pizzas",
+        "price": 11.99,
+        "discounted_price": 8.39
+      },
+      {
+        "id": 6,
+        "image": "../images/pizzaQuesos.png",
+        "name": "Pizza Cuatro Quesos",
+        "category": "Pizzas",
+        "price": 14.49,
+        "discounted_price": 10.14
+      },
+      {
+        "id": 7,
+        "image": "../images/pizzaHawaiana.png",
+        "name": "Pizza Hawaiana",
+        "category": "Pizzas",
+        "price": 12.99,
+        "discounted_price": 9.09
+      },
+      {
+        "id": 8,
+        "image": "../images/pizzaNapolitanaDos.png",
+        "name": "Pizza Pepperoni",
+        "category": "Pizzas",
+        "price": 16.99,
+        "discounted_price": 11.89
+      },
+      {
+        "id": 9,
+        "image": "../images/pizzaCalzone.png",
+        "name": "Pizza Calzone",
+        "category": "Pizzas",
+        "price": 14.99,
+        "discounted_price": null
+      },
+      {
+        "id": 10,
+        "image": "../images/pizzaNapolitana.png",
+        "name": "Pizza Pepperoni",
+        "category": "Pizzas",
+        "price": 17.99,
+        "discounted_price": 12.59
+      }, 
+      {
+        "id": 11,
+        "image": "../images/hamburguesaClasica.png",
+        "name": "Hamburguesa Clásica",
+        "category": "Hamburguesas",
+        "price": 9.99,
+        "discounted_price": 6.99
+      },
+      {
+        "id": 12,
+        "image": "../images/hamburguesaDoble.png",
+        "name": "Hamburguesa Doble",
+        "category": "Hamburguesas",
+        "price": 12.99,
+        "discounted_price": 9.09
+      },
+      {
+        "id": 13,
+        "image": "../images/hamburguesaVegetariana.png",
+        "name": "Hamburguesa Vegetariana",
+        "category": "Hamburguesas",
+        "price": 10.99,
+        "discounted_price": 7.69
+      },
+      {
+        "id": 14,
+        "image": "../images/hamburguesaQueso.png",
+        "name": "Hamburguesa con Queso",
+        "category": "Hamburguesas",
+        "price": 11.99,
+        "discounted_price": 8.39
+      },
+      {
+        "id": 15,
+        "image": "../images/hamburguesaPollo.png",
+        "name": "Hamburguesa de Pollo",
+        "category": "Hamburguesas",
+        "price": 10.99,
+        "discounted_price": 7.69
+      },
+      {
+        "id": 16,
+        "image": "../images/hamburguesaVegana.png",
+        "name": "Hamburguesa Vegana",
+        "category": "Hamburguesas",
+        "price": 8.99,
+        "discounted_price": 6.49
+      },
+      {
+        "id": 17,
+        "image": "../images/hamburguesaCordero.png",
+        "name": "Hamburguesa de Cordero",
+        "category": "Hamburguesas",
+        "price": 11.99,
+        "discounted_price": 8.99
+      },
+      {
+        "id": 18,
+        "image": "../images/hamburguesaCamarones.png",
+        "name": "Hamburguesa de Camarones",
+        "category": "Hamburguesas",
+        "price": 9.99,
+        "discounted_price": 7.49
+      },
+      {
+        "id": 19,
+        "image": "../images/hamburguesaTernera.png",
+        "name": "Hamburguesa de Ternera",
+        "category": "Hamburguesas",
+        "price": 3.99,
+        "discounted_price": 8.69
+      },
+      {
+        "id": 20,
+        "image": "../images/hamburguesaPescado.png",
+        "name": "Hamburguesa de Pescado",
+        "category": "Hamburguesas",
+        "price": 6.99,
+        "discounted_price": 7.85
+      },
+      {
+        "id": 21,
+        "image": "../images/vodka.png",
+        "name": "Vodka Absolut",
+        "category": "Bebidas",
+        "price": 49.99,
+        "discounted_price": 32.49
+      },
+      {
+        "id": 22,
+        "image": "../images/gin.png",
+        "name": "Ginebra Tanqueray",
+        "category": "Bebidas",
+        "price": 54.99,
+        "discounted_price": 35.74
+      },
+      {
+        "id": 23,
+        "image": "../images/rum.png",
+        "name": "Ron Zacapa",
+        "category": "Bebidas",
+        "price": 69.99,
+        "discounted_price": 45.49
+      },
+      {
+        "id": 24,
+        "image": "../images/whiskey.png",
+        "name": "Whisky Johnnie Walker Blue Label",
+        "category": "Bebidas",
+        "price": 299.99,
+        "discounted_price": 194.99
+      },
+      {
+        "id": 25,
+        "image": "../images/tequila.png",
+        "name": "Tequila Don Julio 1942",
+        "category": "Bebidas",
+        "price": 249.99,
+        "discounted_price": 162.49
+      },
+      {
+        "id": 26,
+        "image": "../images/cognac.png",
+        "name": "Cognac Hennessy XO",
+        "category": "Bebidas",
+        "price": 349.99,
+        "discounted_price": 227.49
+      },
+      {
+        "id": 27,
+        "image": "../images/scotch.png",
+        "name": "Scotch Macallan 18 años",
+        "category": "Bebidas",
+        "price": 349.99,
+        "discounted_price": 227.49
+      },
+      {
+        "id": 28,
+        "image": "../images/champagne.png",
+        "name": "Champagne Dom Perignon",
+        "category": "Bebidas",
+        "price": 249.99,
+        "discounted_price": 162.49
+      },
+      {
+        "id": 29,
+        "image": "../images/beer.png",
+        "name": "Cerveza artesanal",
+        "category": "Bebidas",
+        "price": 14.99,
+        "discounted_price": 9.74
+      },
+      {
+        "id": 30,
+        "image": "../images/wine.png",
+        "name": "Vino tinto reserva",
+        "category": "Bebidas",
+        "price": 89.99,
+        "discounted_price": 58.49
+      },
+      {
+        "id": 31,
+        "image": "../images/sandwich1.png",
+        "name": "Sandwich de pollo",
+        "category": "Sandwiches",
+        "price": 8.99,
+        "discounted_price": 5.84
+      },
+      {
+        "id": 32,
+        "image": "../images/sandwich2.png",
+        "name": "Sandwich de jamón y queso",
+        "category": "Sandwiches",
+        "price": 7.99,
+        "discounted_price": 5.19
+      },
+      {
+        "id": 33,
+        "image": "../images/sandwich3.png",
+        "name": "Sandwich de roast beef",
+        "category": "Sandwiches",
+        "price": 9.99,
+        "discounted_price": 6.49
+      },
+      {
+        "id": 34,
+        "image": "../images/sandwich4.png",
+        "name": "Sandwich de lomo",
+        "category": "Sandwiches",
+        "price": 11.99,
+        "discounted_price": 7.79
+      },
+      {
+        "id": 35,
+        "image": "../images/sandwich5.png",
+        "name": "Sandwich vegetariano",
+        "category": "Sandwiches",
+        "price": 8.99,
+        "discounted_price": 5.84
+      },
+      {
+        "id": 36,
+        "image": "../images/sandwich6.png",
+        "name": "Sandwich de atún",
+        "category": "Sandwiches",
+        "price": 9.99,
+        "discounted_price": 6.49
+      },
+      {
+        "id": 37,
+        "image": "../images/sandwich7.png",
+        "name": "Sandwich de pavo",
+        "category": "Sandwiches",
+        "price": 7.99,
+        "discounted_price": 5.19
+      },
+      {
+        "id": 38,
+        "image": "../images/sandwich8.png",
+        "name": "Sandwich de salmón",
+        "category": "Sandwiches",
+        "price": 12.99,
+        "discounted_price": 8.44
+      },
+      {
+        "id": 39,
+        "image": "../images/sandwich9.png",
+        "name": "Sandwich de carne asada",
+        "category": "Sandwiches",
+        "price": 10.99,
+        "discounted_price": 7.14
+      },
+      {
+        "id": 40,
+        "image": "../images/sandwich10.png",
+        "name": "Sandwich de pollo y aguacate",
+        "category": "Sandwiches",
+        "price": 11.99,
+        "discounted_price": 7.79
+      },
+      {
+        "id": 41,
+        "image": "../images/ensalada1.png",
+        "name": "Ensalada César",
+        "category": "Ensaladas",
+        "price": 9.99,
+        "discounted_price": 6.49
+      },
+      {
+        "id": 42,
+        "image": "../images/ensalada2.png",
+        "name": "Ensalada de espinacas",
+        "category": "Ensaladas",
+        "price": 8.99,
+        "discounted_price": 5.84
+      },
+      {
+        "id": 43,
+        "image": "../images/ensalada3.png",
+        "name": "Ensalada de quinoa",
+        "category": "Ensaladas",
+        "price": 10.99,
+        "discounted_price": 7.14
+      },
+      {
+        "id": 44,
+        "image": "../images/ensalada4.png",
+        "name": "Ensalada de salmón",
+        "category": "Ensaladas",
+        "price": 12.99,
+        "discounted_price": 8.44
+      },
+      {
+        "id": 45,
+        "image": "../images/ensalada5.png",
+        "name": "Ensalada mixta",
+        "category": "Ensaladas",
+        "price": 7.99,    
+        "discounted_price": 5.19 
+      },
+      {
+        "id": 46,
+        "image": "../images/taco1.png",
+        "name": "Taco de pollo",
+        "category": "Tacos",
+        "price": 2.99,
+        "discounted_price": 1.94
+      },
+      {
+        "id": 47,
+        "image": "../images/taco2.png",
+        "name": "Taco de carne asada",
+        "category": "Tacos",
+        "price": 3.49,
+        "discounted_price": 2.27
+      },
+      {
+        "id": 48,
+        "image": "../images/taco3.png",
+        "name": "Taco de pescado",
+        "category": "Tacos",
+        "price": 3.99,
+        "discounted_price": 2.59
+      },
+      {
+        "id": 49,
+        "image": "../images/taco4.png",
+        "name": "Taco vegetariano",
+        "category": "Tacos",
+        "price": 2.79,
+        "discounted_price": 1.81
+      },
+      {
+        "id": 50,
+        "image": "../images/taco5.png",
+        "name": "Taco de camarones",
+        "category": "Tacos",
+        "price": 4.49
+      },    
+      {
+        "id": 51,
+        "image": "../images/sushi1.png",
+        "name": "Maki de salmón",
+        "category": "Sushi",
+        "price": 5.99,
+        "discounted_price": 3.89
+      },
+      {
+        "id": 52,
+        "image": "../images/sushi2.png",
+        "name": "Nigiri de atún",
+        "category": "Sushi",
+        "price": 6.49,
+        "discounted_price": 4.22
+      },
+      {
+        "id": 53,
+        "image": "../images/sushi3.png",
+        "name": "California roll",
+        "category": "Sushi",
+        "price": 7.99,
+        "discounted_price": 5.19
+      }      
+    ]
+  }
+  

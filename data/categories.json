@@ -1,0 +1,39 @@
+{
+    "categories": [
+        {
+          "id": 1,
+          "image": "../images/pizzaNapolitana.png",
+          "title": "Pizzas"
+        },
+        {
+          "id": 2,
+          "image": "../images/hamburguesa.png",
+          "title": "Hamburguesas"
+        },
+        {
+          "id": 3,
+          "image": "../images/bebidas.png",
+          "title": "Bebidas"
+        },
+        {
+          "id": 4,
+          "image": "../images/sandwich.png",
+          "title": "Sandwiches"
+        },
+        {
+          "id": 5,
+          "image": "../images/ensalada.png",
+          "title": "Ensaladas"
+        },
+        {
+          "id": 6,
+          "image": "../images/tacos.png",
+          "title": "Tacos"
+        },
+        {
+          "id": 7,
+          "image": "../images/sushi.png",
+          "title": "Sushi"
+        }
+      ]
+}
