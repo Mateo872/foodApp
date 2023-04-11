@@ -350,6 +350,7 @@ main {
           display: flex;
           justify-content: center;
           align-items: center;
+          padding: 0 0.4rem;
           gap: 0.8rem;
           background-color: #fff;
           position: relative;
@@ -357,7 +358,7 @@ main {
           margin-bottom: 0.8rem;
 
           &-image {
-            width: 11rem;
+            width: 9rem;
             img {
               width: 100%;
             }
