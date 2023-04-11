@@ -339,7 +339,7 @@ main .container_restaurant .restaurant .product_detail_slider .product_restauran
   margin-bottom: 0.8rem;
 }
 main .container_restaurant .restaurant .product_detail_slider .product_restaurant-image {
-  width: 12rem;
+  width: 9rem;
   height: 4rem;
 }
 main .container_restaurant .restaurant .product_detail_slider .product_restaurant-image img {
@@ -352,6 +352,7 @@ main .container_restaurant .restaurant .product_detail_slider .product_restauran
   gap: 0.4rem;
 }
 main .container_restaurant .restaurant .product_detail_slider .product_restaurant-desc {
+  width: 50%;
   display: flex;
   flex-direction: column;
   gap: 0.5rem;

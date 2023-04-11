@@ -359,7 +359,7 @@ main {
           margin-bottom: 0.8rem;
 
           &-image {
-            width: 12rem;
+            width: 9rem;
             height: 4rem;
             img {
               height: 100%;
@@ -372,6 +372,7 @@ main {
             gap: 0.4rem;
           }
           &-desc {
+            width: 50%;
             display: flex;
             flex-direction: column;
             gap: 0.5rem;
