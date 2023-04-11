@@ -340,8 +340,10 @@ main .container_restaurant .restaurant .product_detail_slider .product_restauran
 }
 main .container_restaurant .restaurant .product_detail_slider .product_restaurant-image {
   width: 9rem;
+  height: 4rem;
 }
 main .container_restaurant .restaurant .product_detail_slider .product_restaurant-image img {
+  height: 100%;
   width: 100%;
 }
 main .container_restaurant .restaurant .product_detail_slider .product_restaurant-price {
@@ -349,8 +351,18 @@ main .container_restaurant .restaurant .product_detail_slider .product_restauran
   font-weight: bold;
   gap: 0.4rem;
 }
-main .container_restaurant .restaurant .product_detail_slider .product_restaurant-name h3 {
+main .container_restaurant .restaurant .product_detail_slider .product_restaurant-desc {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+main .container_restaurant .restaurant .product_detail_slider .product_restaurant-name h4 {
   font-size: 0.8rem;
+}
+main .container_restaurant .restaurant .product_detail_slider .product_restaurant-name h5 {
+  font-size: 0.8rem;
+  color: #8d8d8d;
+  font-weight: 600;
 }
 main .container_restaurant .restaurant .product_detail_slider .product_restaurant .discount {
   display: flex;
