@@ -70,7 +70,7 @@
         "name": "Pizza calzone",
         "category": "Pizzas",
         "price": 14.99,
-        "discounted_price": null
+        "discounted_price": 9.09
       },
       {
         "id": 10,
@@ -162,54 +162,6 @@
       },
       {
         "id": 21,
-        "image": "../images/vodka.png",
-        "name": "Vodka",
-        "category": "Bebidas",
-        "price": 49.99,
-        "discounted_price": 32.49
-      },
-      {
-        "id": 22,
-        "image": "../images/gin.png",
-        "name": "Ginebra Tanqueray",
-        "category": "Bebidas",
-        "price": 54.99,
-        "discounted_price": 35.74
-      },
-      {
-        "id": 23,
-        "image": "../images/ron.png",
-        "name": "Ron Zacapa",
-        "category": "Bebidas",
-        "price": 69.99,
-        "discounted_price": 45.49
-      },
-      {
-        "id": 24,
-        "image": "../images/whiskey.png",
-        "name": "Whisky Johnnie",
-        "category": "Bebidas",
-        "price": 299.99,
-        "discounted_price": 194.99
-      },
-      {
-        "id": 25,
-        "image": "../images/tequila.png",
-        "name": "Tequila Don Julio 1942",
-        "category": "Bebidas",
-        "price": 249.99,
-        "discounted_price": 162.49
-      },
-      {
-        "id": 29,
-        "image": "../images/beer.png",
-        "name": "Cerveza artesanal",
-        "category": "Bebidas",
-        "price": 14.99,
-        "discounted_price": 9.74
-      },
-      {
-        "id": 31,
         "image": "../images/sandwich1.png",
         "name": "Sandwich de pollo",
         "category": "Sandwiches",
@@ -217,7 +169,7 @@
         "discounted_price": 5.84
       },
       {
-        "id": 32,
+        "id": 22,
         "image": "../images/sandwich2.png",
         "name": "Sandwich de jamón y queso",
         "category": "Sandwiches",
@@ -225,7 +177,7 @@
         "discounted_price": 5.19
       },
       {
-        "id": 33,
+        "id": 23,
         "image": "../images/sandwich3.png",
         "name": "Sandwich de roast beef",
         "category": "Sandwiches",
@@ -233,7 +185,7 @@
         "discounted_price": 6.49
       },
       {
-        "id": 34,
+        "id": 24,
         "image": "../images/sandwich4.png",
         "name": "Sandwich de lomo",
         "category": "Sandwiches",
@@ -241,55 +193,7 @@
         "discounted_price": 7.79
       },
       {
-        "id": 35,
-        "image": "../images/sandwich5.png",
-        "name": "Sandwich vegetariano",
-        "category": "Sandwiches",
-        "price": 8.99,
-        "discounted_price": 5.84
-      },
-      {
-        "id": 36,
-        "image": "../images/sandwich6.png",
-        "name": "Sandwich de atún",
-        "category": "Sandwiches",
-        "price": 9.99,
-        "discounted_price": 6.49
-      },
-      {
-        "id": 37,
-        "image": "../images/sandwich7.png",
-        "name": "Sandwich de pavo",
-        "category": "Sandwiches",
-        "price": 7.99,
-        "discounted_price": 5.19
-      },
-      {
-        "id": 38,
-        "image": "../images/sandwich8.png",
-        "name": "Sandwich de salmón",
-        "category": "Sandwiches",
-        "price": 12.99,
-        "discounted_price": 8.44
-      },
-      {
-        "id": 39,
-        "image": "../images/sandwich9.png",
-        "name": "Sandwich de carne asada",
-        "category": "Sandwiches",
-        "price": 10.99,
-        "discounted_price": 7.14
-      },
-      {
-        "id": 40,
-        "image": "../images/sandwich10.png",
-        "name": "Sandwich de pollo y aguacate",
-        "category": "Sandwiches",
-        "price": 11.99,
-        "discounted_price": 7.79
-      },
-      {
-        "id": 41,
+        "id": 25,
         "image": "../images/ensalada1.png",
         "name": "Ensalada César",
         "category": "Ensaladas",
@@ -297,7 +201,7 @@
         "discounted_price": 6.49
       },
       {
-        "id": 42,
+        "id": 26,
         "image": "../images/ensalada2.png",
         "name": "Ensalada de espinacas",
         "category": "Ensaladas",
@@ -305,7 +209,7 @@
         "discounted_price": 5.84
       },
       {
-        "id": 43,
+        "id": 27,
         "image": "../images/ensalada3.png",
         "name": "Ensalada de quinoa",
         "category": "Ensaladas",
@@ -313,7 +217,7 @@
         "discounted_price": 7.14
       },
       {
-        "id": 44,
+        "id": 28,
         "image": "../images/ensalada4.png",
         "name": "Ensalada de salmón",
         "category": "Ensaladas",
@@ -321,7 +225,7 @@
         "discounted_price": 8.44
       },
       {
-        "id": 45,
+        "id": 29,
         "image": "../images/ensalada5.png",
         "name": "Ensalada mixta",
         "category": "Ensaladas",
@@ -329,7 +233,7 @@
         "discounted_price": 5.19 
       },
       {
-        "id": 46,
+        "id": 30,
         "image": "../images/taco1.png",
         "name": "Taco de pollo",
         "category": "Tacos",
@@ -337,7 +241,7 @@
         "discounted_price": 1.94
       },
       {
-        "id": 47,
+        "id": 31,
         "image": "../images/taco2.png",
         "name": "Taco de carne asada",
         "category": "Tacos",
@@ -345,30 +249,15 @@
         "discounted_price": 2.27
       },
       {
-        "id": 48,
+        "id": 32,
         "image": "../images/taco3.png",
         "name": "Taco de pescado",
         "category": "Tacos",
         "price": 3.99,
         "discounted_price": 2.59
-      },
+      }, 
       {
-        "id": 49,
-        "image": "../images/taco4.png",
-        "name": "Taco vegetariano",
-        "category": "Tacos",
-        "price": 2.79,
-        "discounted_price": 1.81
-      },
-      {
-        "id": 50,
-        "image": "../images/taco5.png",
-        "name": "Taco de camarones",
-        "category": "Tacos",
-        "price": 4.49
-      },    
-      {
-        "id": 51,
+        "id": 33,
         "image": "../images/sushi1.png",
         "name": "Maki de salmón",
         "category": "Sushi",
@@ -376,7 +265,7 @@
         "discounted_price": 3.89
       },
       {
-        "id": 52,
+        "id": 34,
         "image": "../images/sushi2.png",
         "name": "Nigiri de atún",
         "category": "Sushi",
@@ -384,7 +273,7 @@
         "discounted_price": 4.22
       },
       {
-        "id": 53,
+        "id": 35,
         "image": "../images/sushi3.png",
         "name": "California roll",
         "category": "Sushi",
