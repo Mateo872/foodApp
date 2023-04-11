@@ -118,10 +118,9 @@ main .container_categories {
 main .container_categories .categories h3 {
   font-size: 1rem;
   color: #585858;
-  margin-bottom: 0.3rem;
 }
 main .container_categories .categories .categories_products {
-  height: 9.4rem;
+  height: 10.5rem;
   display: flex;
   justify-content: space-between;
   overflow-x: auto;
@@ -130,6 +129,7 @@ main .container_categories .categories .categories_products {
   gap: 0.5rem;
 }
 main .container_categories .categories .categories_products .product {
+  margin-top: 0.6rem;
   width: 4.625rem;
   height: 7.688rem;
   background-color: #fff;
@@ -138,7 +138,7 @@ main .container_categories .categories .categories_products .product {
   flex-direction: column;
   align-items: center;
   padding: 0.6rem;
-  box-shadow: 0 10px 15px -8px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 0px 20px -7px rgba(0, 0, 0, 0.2);
   scroll-snap-align: center;
 }
 main .container_categories .categories .categories_products .product_image {
@@ -164,6 +164,7 @@ main .container_categories .categories .categories_products .product_title {
 }
 main .container_categories .categories .categories_products .product_active {
   background-color: #ff9000;
+  box-shadow: 0px 10px 15px -8px rgba(0, 0, 0, 0.25);
 }
 main .container_categories .categories .categories_products::-webkit-scrollbar {
   width: 0;
