@@ -351,14 +351,13 @@ main {
           justify-content: center;
           align-items: center;
           gap: 0.8rem;
-          // padding: 0 0.8rem;
           background-color: #fff;
           position: relative;
           scroll-snap-align: center;
           margin-bottom: 0.8rem;
 
           &-image {
-            width: 10rem;
+            width: 13rem;
             img {
               width: 100%;
             }
